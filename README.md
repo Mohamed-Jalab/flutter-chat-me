@@ -117,7 +117,9 @@ Found a bug or have an idea for improvement? Open an issue with steps to reprodu
 
 ## 📄 License
 
-The license for this project has not yet been specified. A license should be added before inviting public contributions or redistributing the project.
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this project according to the terms of the license.
 
 ---
 
