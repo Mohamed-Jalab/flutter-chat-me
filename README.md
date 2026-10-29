@@ -111,18 +111,6 @@ Planned improvements:
 - [ ] Improve accessibility and responsive UI.
 - [ ] Add CI checks for formatting, analysis, and tests.
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes and add appropriate tests.
-4. Run formatting and static analysis.
-5. Open a pull request describing your changes.
-
-Please read `CONTRIBUTING.md` before submitting a contribution, once it is available in the repository.
-
 ## 🐛 Issues and Feedback
 
 Found a bug or have an idea for improvement? Open an issue with steps to reproduce the problem or a clear description of your proposal.
