@@ -59,7 +59,7 @@ lib/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flutter-chat-me.git
+git clone https://github.com/Mohamed-Jalab/flutter-chat-me.git
 cd flutter-chat-me
 ```
 
